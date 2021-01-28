@@ -17,6 +17,12 @@ import internal.GlobalVariable as GlobalVariable
 
 WS.sendRequest(findTestObject('Homework_API/Get'))
 
+WS.sendRequest(findTestObject('Homework_API/Get_2'))
+
+WS.sendRequest(findTestObject('Homework_API/Get_3'))
+
+WS.sendRequest(findTestObject('Homework_API/Get_4'))
+
 WS.sendRequestAndVerify(findTestObject('Homework_API/Delete'))
 
 WS.sendRequestAndVerify(findTestObject('Homework_API/Edit'))

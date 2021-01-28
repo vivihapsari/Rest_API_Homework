@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Delete</name>
+   <name>Get_2</name>
    <tag></tag>
-   <elementGuidId>3559cd44-cada-441c-b71f-953328063ecb</elementGuidId>
+   <elementGuidId>f33b6128-3d3c-4641-a4ea-d67bc1f7b075</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -14,7 +14,7 @@
    <katalonVersion>7.8.1</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
-   <restRequestMethod>DELETE</restRequestMethod>
+   <restRequestMethod>GET</restRequestMethod>
    <restUrl>http://jsonplaceholder.typicode.com/posts/1</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>

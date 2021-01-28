@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Delete</name>
+   <name>Get_4</name>
    <tag></tag>
-   <elementGuidId>3559cd44-cada-441c-b71f-953328063ecb</elementGuidId>
+   <elementGuidId>756e323f-2479-44cc-88d5-bd44662e8ec1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
@@ -14,8 +14,8 @@
    <katalonVersion>7.8.1</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
-   <restRequestMethod>DELETE</restRequestMethod>
-   <restUrl>http://jsonplaceholder.typicode.com/posts/1</restUrl>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>http://jsonplaceholder.typicode.com/comments?postId=1</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
